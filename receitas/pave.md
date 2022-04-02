@@ -1,6 +1,6 @@
 # Pavê de Chocolate :chocolate_bar:
 
-#### Ingredientes
+#### INGREDIENTES
 
 - 1 pacote de bolacha maisena
 - 1/2 copo de leite
@@ -21,7 +21,7 @@
 - 4 colheres de açúcar
 - 1 lata de creme de leite sem soro
 
-#### Modo de Preparo
+#### MODO DE PREPARO
 
 1. Em uma tigela, misture o leite e o chocolate em pó até que esteja completamente dissolvido.
 2. Molhe as bolachas no leite e reserve.

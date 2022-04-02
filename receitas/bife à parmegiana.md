@@ -1,6 +1,6 @@
 # Bife à Parmegiana :poultry_leg:
 
-#### Ingredientes
+#### INGREDIENTES
 
 - 1 kg de contra filé
 - 1 cebola ralada
@@ -13,7 +13,7 @@
 - 1 lata de molho de tomate pronto
 - 1 gema de ovo para empanar os bifes
 
-#### Modo de Preparo
+#### MODO DE PREPARO
 
 1. Tempere os bifes com os ingredientes secos e faça-os à milanesa.
 2. Frite e leve-os à uma assadeira.
