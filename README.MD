@@ -6,5 +6,5 @@ Olá! Bem-vindo ao meu livro de receitas :wave:
 - Pavê
 - Bife à parmegiana
 - Mousse de morango
-- Petit Gateau
+- Petit gateau
 - Risoto de camarão
